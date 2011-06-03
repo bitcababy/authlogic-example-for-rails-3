@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  oauth_token: MyString
+  status: 1
+  app_type: MyString
+
+two:
+  oauth_token: MyString
+  status: 1
+  app_type: MyString

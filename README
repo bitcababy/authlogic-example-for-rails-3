@@ -1,0 +1,7 @@
+This is a sample code I am using in all of my fun/client projects for login and sign up,useful as saves times:-). feel free to use it, included Jquery, Jquery Ui, Jquery.rails.js. Prototype Removed, PaperClip Included
+
+
+Reference:- http://railscasts.com/episodes/160-authlogic
+
+
+1. Just search for MyProject in this project and replace it with your app name. :-)
